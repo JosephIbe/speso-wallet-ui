@@ -1,0 +1,5 @@
+/**
+ *  Route Literals
+ * **/
+
+class RouteLiterals {}
